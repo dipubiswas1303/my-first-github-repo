@@ -1,3 +1,5 @@
-h3{
-    color:blueviolet;
+label{
+    display: block;
+    margin: 5px;
+    padding: 5px;
 }
